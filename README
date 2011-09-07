@@ -1,0 +1,3 @@
+This is a simple commandline tool that produces JSON objects. Numeric values are treated as floats, everything else is treated as a string. Only handles one level, no lists.
+
+jsonr/jsonr.py --KEY1 VALUE1 --KEY2 VALUE2 ...
